@@ -1,0 +1,17 @@
+2015-01-24 17:21:27.262 shopsync[99742:1860704] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/digitalsleep/Library/Developer/CoreSimulator/Devices/6A5DACF3-1748-4DBB-9CDD-F9B8CE0B96F8/data/Containers/Data/Application/66952B1C-3301-4979-A8C9-DE1F713DC0E9/Library/Cookies/Cookies.binarycookies
+2015-01-24 17:21:28.146 shopsync[99742:1860704] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 17:21:28.147 shopsync[99742:1860704] Multi-tasking -> Device: YES, App: YES
+2015-01-24 17:21:28.162 shopsync[99742:1860704] Unlimited access to network resources
+2015-01-24 17:21:29.535 shopsync[99742:1860704] [CDVTimer][keyboard] 0.088990ms
+2015-01-24 17:21:29.535 shopsync[99742:1860704] [CDVTimer][TotalPluginStartup] 1.506031ms
+2015-01-24 17:21:30.662 shopsync[99742:1860704] Resetting plugins due to page load.
+2015-01-24 17:21:31.377 shopsync[99742:1860704] Finished load of: file:///Users/digitalsleep/Library/Developer/CoreSimulator/Devices/6A5DACF3-1748-4DBB-9CDD-F9B8CE0B96F8/data/Containers/Bundle/Application/D95D4A6C-1DD5-4FB9-9D7B-66988B1D71BF/shopsync.app/www/index.html#/app/playlists
+2015-01-24 17:21:31.490 shopsync[99742:1860704] THREAD WARNING: ['Device'] took '87.509033' ms. Plugin should use a background thread.
+2015-01-24 17:28:40.309 shopsync[692:1867014] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/digitalsleep/Library/Developer/CoreSimulator/Devices/6A5DACF3-1748-4DBB-9CDD-F9B8CE0B96F8/data/Containers/Data/Application/3A3EB3C6-5A05-431D-B287-5EB06A533344/Library/Cookies/Cookies.binarycookies
+2015-01-24 17:28:40.605 shopsync[692:1867014] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-24 17:28:40.606 shopsync[692:1867014] Multi-tasking -> Device: YES, App: YES
+2015-01-24 17:28:40.607 shopsync[692:1867014] Unlimited access to network resources
+2015-01-24 17:28:40.923 shopsync[692:1867014] [CDVTimer][keyboard] 0.060022ms
+2015-01-24 17:28:40.924 shopsync[692:1867014] [CDVTimer][TotalPluginStartup] 0.216007ms
+2015-01-24 17:28:41.152 shopsync[692:1867014] Resetting plugins due to page load.
+2015-01-24 17:28:41.304 shopsync[692:1867014] Finished load of: file:///Users/digitalsleep/Library/Developer/CoreSimulator/Devices/6A5DACF3-1748-4DBB-9CDD-F9B8CE0B96F8/data/Containers/Bundle/Application/9E75CF0F-6361-416C-A1ED-4AF769B1FDA9/shopsync.app/www/index.html#/app/products

@@ -1,0 +1,36 @@
+/* Empty. Add your own CSS if you like */
+* {
+  box-sizing: border-box;
+}
+.productImage{
+  width: 325px;
+  height: auto;
+  border:1px #ccc solid;
+  border-radius: 300px;
+  padding: 25px;
+}
+
+.imgContain {
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+.container{
+  width: 93%;
+  margin: 0 auto;
+  position: relative;
+}
+.btn{
+  max-width: 100%;
+  text-align: center;
+}
+
+.prodHeaderGrp {
+  text-align: center;
+  position: relative;
+  margin: 15px 0;
+}
+
+.prodHeaderGroup * {
+  margin-bottom: 15px;
+}

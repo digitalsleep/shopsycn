@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Search-Main-2" sketch:type="MSArtboardGroup" transform="translate(-90.000000, -315.000000)" fill="#999999">
+            <g id="Rectangle-3-+-e.g.-Washer-and-Drye-+-search" sketch:type="MSLayerGroup" transform="translate(46.000000, 272.000000)">
+                <g id="search" transform="translate(44.000000, 43.000000)" sketch:type="MSShapeGroup">
+                    <path d="M44.4444444,39.1111111 L41.6,39.1111111 L40.5333333,38.0444444 C44.0888889,34.1333333 46.2222222,28.8 46.2222222,23.1111111 C46.2222222,10.3111111 35.9111111,0 23.1111111,0 C10.3111111,0 0,10.3111111 0,23.1111111 C0,35.9111111 10.3111111,46.2222222 23.1111111,46.2222222 C28.8,46.2222222 34.1333333,44.0888889 38.0444444,40.5333333 L39.1111111,41.6 L39.1111111,44.4444444 L56.8888889,62.2222222 L62.2222222,56.8888889 L44.4444444,39.1111111 L44.4444444,39.1111111 Z M23.1111111,39.1111111 C14.2222222,39.1111111 7.11111111,32 7.11111111,23.1111111 C7.11111111,14.2222222 14.2222222,7.11111111 23.1111111,7.11111111 C32,7.11111111 39.1111111,14.2222222 39.1111111,23.1111111 C39.1111111,32 32,39.1111111 23.1111111,39.1111111 L23.1111111,39.1111111 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

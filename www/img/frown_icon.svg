@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 3 + smile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="product-info" sketch:type="MSArtboardGroup" transform="translate(-1006.000000, -1139.000000)">
+            <g id="Oval-3-+-Oval-3" sketch:type="MSLayerGroup" transform="translate(46.000000, 1140.000000)">
+                <g id="Oval-3-+-smile" transform="translate(970.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-3" fill="#F22613" cx="90" cy="90" r="90"></circle>
+                    <g id="smile" transform="translate(25.000000, 25.000000)" fill="#FFFFFF">
+                        <circle id="Oval" cx="42.5688095" cy="58.045" r="5.42595238"></circle>
+                        <circle id="Oval" cx="87.4497619" cy="58.045" r="5.42595238"></circle>
+                        <path d="M65,130 C100.233095,130 130,100.234643 130,65 C130,29.7653571 100.233095,0 65,0 C29.7669048,0 0,29.7653571 0,65 C0,100.234643 29.7669048,130 65,130 L65,130 Z M65,6.19047619 C96.8778571,6.19047619 123.809524,33.1221429 123.809524,65 C123.809524,96.8778571 96.8778571,123.809524 65,123.809524 C33.1221429,123.809524 6.19047619,96.8778571 6.19047619,65 C6.19047619,33.1221429 33.1221429,6.19047619 65,6.19047619 L65,6.19047619 Z" id="Shape"></path>
+                        <path d="M65.5238064,100.236399 C78.5872588,100.236399 90.4884493,93.7162799 96.5798778,83.2218751 C97.4372588,81.7423513 96.9342826,79.8480656 95.4563064,78.9906847 C93.9783302,78.1333037 92.0840445,78.6362799 91.2251159,80.1142561 C86.2371397,88.7081847 76.3896397,94.0459228 65.5238064,94.0459228 C54.6579731,94.0459228 44.8089254,88.7081847 39.8194016,80.1142561 C38.9604731,78.6347323 37.0661873,78.1317561 35.5897588,78.9906847 C34.110235,79.8496132 33.6088064,81.7423513 34.4661873,83.2203275 C40.5576159,93.7162799 52.4588064,100.236399 65.5238064,100.236399 L65.5238064,100.236399 Z" id="Shape" transform="translate(65.522863, 89.403914) scale(1, -1) translate(-65.522863, -89.403914) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

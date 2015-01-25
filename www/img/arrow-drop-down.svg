@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="55px" height="28px" viewBox="0 0 55 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-drop-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="app-screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Product-Info" sketch:type="MSArtboardGroup" transform="translate(-1097.000000, -2135.000000)" fill="#000000">
+            <g id="The-Craftsman-21inch-+-Line-+-Description" sketch:type="MSLayerGroup" transform="translate(-3.000000, 2104.000000)">
+                <g id="Line-+-Description-+-arrow-drop-down" transform="translate(51.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="arrow-drop-down" transform="translate(1076.500000, 45.000000) scale(1, -1) translate(-1076.500000, -45.000000) translate(1049.000000, 31.000000)">
+                        <path d="M0,0 L27.5,28 L55,0 L0,0 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

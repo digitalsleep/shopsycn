@@ -1,0 +1,26 @@
+<ion-view view-title="Product Detail">
+  <ion-content>
+    <div class="container">
+      <header class="prodHeaderGrp">
+         <h3>{{selectedproduct.ProductDetail.SoftHardProductDetails.Description.DescriptionName}}</h3>
+         <h4>{{selectedproduct.ProductDetail.SoftHardProductDetails.Price.SalePrice}}</h4>
+      </header>
+      <figure class="imgContain"> {{selectedproduct.ProductDetail.SoftHardProductDetails.DescriptionName}}
+      <img class="productImage" src="{{selectedproduct.ProductDetail.SoftHardProductDetails.Description.Images.MainImageUrl}}" alt="">
+      </figure>
+
+      <a href="#" class="btn-blue">
+        <img class="btn" src="img/get_suggestion_btn.svg" alt="">
+      </a>
+            <a href="#" class="btn-blue">
+        <img class="btn" src="img/add_wishlist_btn.svg" alt="">
+      </a>
+        <h3>{{selectedproduct.ProductDetail.SoftHardProductDetails.Description.BrandName}}</h3>
+        <div class="selected-product">
+          {{summary}}
+        </div>
+    </div>
+
+  <!--  <h3>{{selectedproduct.Description.BrandName}}</h3> -->
+  </ion-content>
+</ion-view>

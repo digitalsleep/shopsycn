@@ -1,0 +1,26 @@
+
+<ion-view view-title="Search">
+  <ion-content>
+
+
+    <div class="list list-inset">
+		  <label class="item item-input">
+		    <i class="icon ion-search placeholder-icon"></i>
+		    <input type="text" placeholder="Search" id="searchId" name="searchProduct" ng-model="searchproduct">
+		  </label>
+	</div>
+
+	<button ng-click="searchProduct()" class="button button-block button-positive">
+	  Find Product
+	</button>
+
+	<ion-list>
+	  <ion-item class="item item-thumbnail-left" ng-repeat="votedproduct in votedproducts.list[0]" ng-href = "#/app/votedproduct/{{votedproduct.uuid}}">
+	                <h2>{{votedproduct.name}}</h2>
+					<h2>{{votedproduct.partno}}</h2>
+	    </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
+
+
